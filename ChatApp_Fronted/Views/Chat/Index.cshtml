@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+﻿
+
+<div class="chat-container" style="width:50%">
+    <div class="chat-header">Custom ChatGPT <span id="connectionId"></span></div>
+    <div class="chat-box" id="chat-box"></div>
+    <div class="chat-input">
+        <input type="text" id="user-input" placeholder="Mesajınızı yazın...">
+        <button onclick="sendPrompt()">Gönder</button>
+    </div>
+</div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script src="~/lib/app.js"></script>
+
+
