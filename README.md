@@ -14,4 +14,5 @@
 - **Semantic Kernel** (Yapay Zeka model entegrasyonu)
 - **Gerçek Zamanlı İletişim** (SignalR veya WebSockets kullanılarak)
 
-![image](https://github.com/user-attachments/assets/c2ef1ff1-10f5-44ce-b4c0-6f19593c9a80)
+![image](https://github.com/user-attachments/assets/12740ab1-79f2-44a0-8a05-05e1e35bbc27)
+
