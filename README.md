@@ -1,6 +1,6 @@
 # SemanticKernel-AI-Mesajlaşma
 
-**SemanticKernel-AI-Mesajlaşma** projesi, ASP.NET Core API ile arka uç işlemlerini yöneten ve MVC ile kullanıcı dostu bir ön yüz sunan, anlık yapay zeka destekli bir mesajlaşma sistemini entegre eden bir uygulamadır. Bu proje, Semantic Kernel kullanarak, kullanıcıların yapay zeka ile gerçek zamanlı etkileşimde bulunmalarını sağlar.
+**SemanticKernel-AI-Mesajlaşma** projesi, ASP.NET Core API ile arka uç işlemlerini yöneten ve MVC ile ön yüz sunan, anlık yapay zeka destekli bir mesajlaşma sistemini entegre eden bir uygulamadır. Bu proje, Semantic Kernel kullanarak, kullanıcıların yapay zeka ile gerçek zamanlı etkileşimde bulunmalarını sağlar.
 
 ## Özellikler:
 - **Gerçek Zamanlı Yapay Zeka Mesajlaşma**: Anlık olarak yapay zeka ile sohbet etme imkanı.
